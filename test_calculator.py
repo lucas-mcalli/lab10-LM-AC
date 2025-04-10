@@ -1,3 +1,7 @@
+# https://github.com/lucas-mcalli/lab10-LM-AC.git
+# Partner 1: Lucas McAllister
+# Partner 2: Aidan Chiodo
+
 import unittest
 from calculator import *
 
